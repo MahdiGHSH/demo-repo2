@@ -7,3 +7,4 @@ This is my first readme!
 ##local development
 
 1. open it again
+2. close it now
